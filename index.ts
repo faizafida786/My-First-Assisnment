@@ -1,3 +1,4 @@
+          //my first Assisnment
 // Print a message like "Hey Abu Hurairah, I have started learning TYPESCRIPT."
 console.log('"Hey Faiza Fida, I have started learning TYPESCRIPT."');
 //Store your name in a variable and print it.
